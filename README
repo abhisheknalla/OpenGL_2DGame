@@ -18,6 +18,8 @@ BONUS:
 I have created another frame with another pool. I have implemented friction on ground and reflection  off walls.
 I have changed the background theme after an interval. Moving porcupines is also a feature. Score displayed on Window header.
 I have added music to the game as well.
+Magnet appears after you attain a score of 30 or greater and then disappears. 
+Porcupines move randomly. 
 
 ----------------------------------------------------------
 
@@ -27,3 +29,5 @@ Create a build directory inside graphics-boilerplate
 cmake .. inside build
 make all inside build 
 run executable inside build --> ./graphics-asgn1
+
+-----------
